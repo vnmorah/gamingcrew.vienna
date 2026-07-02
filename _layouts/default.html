@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+
+{% seo %}
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    {% include head-custom.html %}
+  </head>
+  <body>
+    
+    <header class="page-header" role="banner">
+        <div class='page-header-content'>
+          <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+          <p class='page-header-links'>
+            {% for link in site.author.links %}
+            {% if link.label and link.url %}
+             <a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i
+                 class="icon fa-2x {{ link.icon | default: 'fas fa-link' }}"
+                 aria-hidden="true"></i></a></li>
+            {% endif %}
+           {% endfor %}
+         </p>
+         {% if page.description %} <h2 class="project-tagline">{{ page.description | markdownify }}</h2>{% endif %}
+         <div class='head-nav-container'>
+          {% if page.url contains 'eng' %}
+          <a href='/eng_home/'>Home</a>
+          {% elsif page.url contains 'esp' %}
+          <a href='/esp_home/'>Inicio</a>
+          {% else %}
+          <a href='https://www.vmorah.com'>Home|Inicio</a>
+          {% endif %}
+        </div>
+        </div>
+       
+
+    </header>
+
+    <main id="content" class="main-content" role="main">
+      {{ content }}
+
+      <footer class="site-footer">
+              <p>Copyright &copy; 2021
+{{ site.author.name }}. All rights reserved. <span style='margin: 0.5em 0.5em;'>|</span>
+		 <a href='/eng_privacy/' >Privacy Policy</a> <span style='margin: 0.5em 0.5em;'>|</span>
+		<a href='/eng_conditions/'>Terms & Conditions</a>
+              </p>
+      </footer>
+    </main>
+  </body>
+</html>

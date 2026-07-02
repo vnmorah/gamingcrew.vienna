@@ -1,0 +1,33 @@
+title: Valeria Mora-Hernández
+description: Ph.D. & Coach
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-cayman
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+
+include:
+    - _pages
+    - .htaccess
+
+author:
+  name: Valeria Mora-Hernández
+  links:
+    - label: 'Email'
+      icon: 'fas fa-fw fa-envelope-square'
+      url: 'mailto:contact.vmorah@gmail.com'
+    - label: 'LinkedIn'
+      icon: 'fab fa-linkedin'
+      url: 'https://linkedin.com/in/vmoraphd/'
+    - label: 'Instagram'
+      icon: 'fab fa-instagram'
+      url: 'https://instagram.com/thecoachwithbooks'
+    - label: 'Twitter'
+      icon: 'fab fa-fw fa-twitter-square'
+      url: 'https://twitter.com/vmorahphd'
+    
+
