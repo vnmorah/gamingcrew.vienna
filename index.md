@@ -3,8 +3,6 @@ title: Valeria Mora-Hernández
 description: 'Ph.D. & Coach'
 
 layout: featurerow
-
-permalink: /eng_home/
 feature_row:
   - title: 'Coaching'
     linktext: 'Discover!'
