@@ -50,4 +50,3 @@ Additionally, as a Spanish Literature Ph.D., Dr. Mora-Hernández is also a speci
 - International and multicultural awareness
 - Bilingual Spanish & English
 
-### Test header
