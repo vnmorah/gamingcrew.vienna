@@ -29,6 +29,7 @@ feature_row:
     linkurl: /blog/
     image_path: '/assets/images/blog.jpg'
 
+---
 
 ## What Makes Us Different?
 
