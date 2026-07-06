@@ -29,7 +29,7 @@ feature_row:
 
 ---
 
-# What Makes Us Different?
+What Makes Us Different?
 
 Our group follows these guiding principles:
 
