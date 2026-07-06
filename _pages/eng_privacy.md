@@ -1,6 +1,6 @@
 ---
 title: Privacy Policy
-description: Valeria Mora-Hernández
+description: Gaming Crew Vienna
 permalink: /eng_privacy/
 ---
 ## Data Collection
