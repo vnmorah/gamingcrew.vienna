@@ -1,9 +1,9 @@
 ---
-title: Privacy Policy
-description: Gaming Crew Vienna
-permalink: /eng_privacy/
+title: Gaming Crew Vienna
+description: Board Games ♥ People ♥ Connections
+permalink: /privacy/
 ---
-## Data Collection
+## Privacy and Data Collection
 
 This website does not store your data.
 I may employ third party companies and individuals to facilitate my service, to provide the service on my behalf, to perform service-related services or to assist me in analyzing how my service is used.
