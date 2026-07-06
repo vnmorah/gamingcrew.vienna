@@ -1,6 +1,7 @@
 ---
 title: Gaming Crew Vienna
 description: 'Board Games ♥ People ♥ Connections'
+
 ---
 
 layout: featurerow
@@ -29,6 +30,7 @@ feature_row:
     image_path: '/assets/images/blog.jpg'
 
 ---
+
 ## What Makes Us Different?
 
 Our group follows these guiding principles:
