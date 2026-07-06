@@ -29,7 +29,6 @@ feature_row:
     image_path: '/assets/images/blog.jpg'
 
 ---
-
 ## What Makes Us Different?
 
 Our group follows these guiding principles:
