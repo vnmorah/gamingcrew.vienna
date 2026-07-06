@@ -1,29 +1,20 @@
 ---
-title: About Valeria
+title: About Val
 description: 
 permalink: /eng_about/
 
 ---
+## The Who, The What, and The Why
+Gaming Crew Vienna was founded in 2024 with a simple goal: to create the kind of board gaming community I was searching for after moving to Vienna.
 
-<img align="left" src='/assets/images/aboutphoto.jpg' width='30%' style='margin-right:1em' > I am Valeria Mora-Hernández, Spanish Literature Ph.D. and Life Coach. My life has been shaped by my experience being a (white-passing) female of color together with being a first-generation immigrant, first-generation Ph.D., college instructor, researcher and academic writer. 
+Hi! I'm Val. Originally from Chile, I arrived in 2023 to Austria after living 7 years in the US. When I arrived in Vienna, I spoke very little German and found it difficult to meet new people. I discovered board games with the amazing **Oaklandish Board Gamers** community in California, so I knew that games where a great way to make friends. During my first year, I visited several gaming groups around the city. Vienna has a lot of gaming groups to offer, I always say that there is a group for everyone here. However, while I met many wonderful people, I never quite found the experience I was hoping for.
 
-Either as a Ph.D. or as a Coach, I support you in the process of developing the skills that will help you succeed in your academic, professional, and/or personal life.
+I wanted a place where people could discover new games without having to study the rules beforehand. A place where experienced and newer players were excited to teach medium and heavier games instead of sticking only to games that could be explained in five minutes.
 
-Through more than 10 years in Higher Education, I have learned that *well-being is the best strategy you can use to achieve personal and professional success*. However, well-being and success look different for everyone! As a coach, I support you in the process of identifying how do well-being and success look for you within your unique context. Together, we work towards accomplishing your personal and professional goals. 
+I also noticed something else. Board gaming is still a male-dominated hobby, and I often saw women being discouraged from trying more complex games. Some female players shared their experiences of having been told certain games were "too difficult" for beginners or that they should stick to lighter games instead. I wanted to create a different environment: one where everyone is encouraged to learn, ask questions, make mistakes, and discover more and more games.
 
-As a Spanish Literature Ph.D., I am a specialist in Early Modern Spanish narrative as well as in teaching Spanish as a foreign language. I can assist you in the process of learning Spanish and its literature. Through my teaching, I support you in developing the linguistic and cultural skills that will lead you to succeed in and beyond my courses. At the same time, I invite you to reflect on your personal daily reality while we enjoy reading the works of Spanish literature.
+So I started Gaming Crew Vienna.
 
-In my experience as a coach and instructor, I discovered that I am passionate about helping others to find the light that shines within themselves. 
+Today, we are an international community that organizes through Discord and welcomes players from all over the world. Our members come from countries including Austria, Chile, South Africa, India, Hungary, Italy, Guatemala, Romania, and many more. We play our games in English and prioritize English-language or language-independent editions so that everyone can participate.
 
-### Some of my skills are:
-
-- Building trust
-- Creating awareness
-- Finding and nurturing other people's strengths
-- Motivating groups andindividuals to complete projects
-- Articulating overall goals & creating mini-goals for others
-- Giving positive feedback
-- Active listening
-- Verbal & Written communication
-- International and multicultural awareness
-- Bilingual Spanish & English
+If you are looking for an English-speaking community where to learn and play some games to challenge you, this is the place. 
