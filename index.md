@@ -1,52 +1,67 @@
 ---
-title: Valeria Mora-Hernández
-description: 'Ph.D. & Coach'
+title: About the Gaming Crew Vienna
+description: 'Board Games • People • Connections'
 
 layout: featurerow
 feature_row:
-  - title: 'Coaching'
-    linktext: 'Discover!'
-    excerpt: 'I strongly believe that your well-being is the best strategy to successfully achieve your personal and professional goals.' 
-    linkurl: /eng_coaching/
+  - title: 'Who We Are'
+    linktext: 'About!'
+    excerpt: 'If you are looking for an English-speaking community where to learn and play some games to challenge you, this is the place.' 
+    linkurl: /eng_about/
     image_path: '/assets/images/bookflower_feature.jpg'
-  - title: 'Academic Services'
-    linktext: 'Explore'
-    excerpt: "Improve your language skills, or get-over that writer's block. Get the help from a qualified Spanish teacher, writer and researcher." 
+  - title: 'Games'
+    linktext: 'Check out our collection'
+    excerpt: "Every meetup has a theme. We love medium to heavy board games." 
     linkurl: /eng_services/
     image_path: '/assets/images/services/guidance.jpg'
-  - title: 'Teaching & Research'
-    linktext: 'Learn more...'
-    excerpt: 'A specialist in Early Modern Spanish literature and in teaching Spanish as a foreign language.'
     linkurl: /eng_teaching/
     image_path: '/assets/images/bookplant_feature.jpg'
-  - title: 'Blog'
+  - title: 'News'
     linktext: 'Read'
-    excerpt: 'A space to share organization strategies, reflections about literature, and more.' 
+    excerpt: 'Take a look at our recent meetings' 
     linkurl: /both_blog/
     image_path: '/assets/images/blog.jpg'
 
 ---
 
-## About Valeria
+### The Who, The What, and The Why
+Gaming Crew Vienna was founded in 2024 with a simple goal: to create the kind of board gaming community I was searching for after moving to Vienna.
 
-<img align="left" src='/assets/images/aboutphoto.jpg' width='30%' style='margin-right:1em' > Dr. Mora-Hernández is a member of the International Coaching Federation who has embraced pioneering as her signature strength. Her life has been shaped by her experience being a female of color together with being a first-generation immigrant, first-generation Ph.D., college instructor, researcher, and academic writer. She also is the first one in her big family to have a multicultural household. 
+Hi! I'm Val. Originally from Chile, I arrived in 2023 to Austria after living 7 years in the US. When I arrived in Vienna, I spoke very little German and found it difficult to meet new people. I discovered board games with the amazing **Oaklandish Board Gamers** community in California, so I knew that games where a great way to make friends. During my first year, I visited several gaming groups around the city. Vienna has a lot of gaming groups to offer, I always say that there is a group for everyone here. However, while I met many wonderful people, I never quite found the experience I was hoping for.
 
-Originally from Chile, Dr. Mora-Hernández was the first one of the Mora-Hernández family to pursue a college degree. After obtaining both a B.A. and an M.A. at the Pontificia Universidad Católica de Chile, she became the first one to leave her home country to pursue a doctorate degree. After graduating from the Ph.D. in Spanish at the University of Notre Dame, Dr. Mora-Hernández migrated again to live for a short period of time in Vienna, Austria, and then returned to the US, where she is currently living in Oakland, California.
+I wanted a place where people could discover new games without having to study the rules beforehand. A place where experienced and newer players were excited to teach medium and heavier games instead of sticking only to games that could be explained in five minutes.
 
-In her personal and professional journey, Dr. Mora-Hernández has learned that being the first one often feels lonely. The cultural barriers, stereotype threats, and challenges that come with shaking up “the way things have always been done” frequently represent a threat to our motivation, confidence, and academic development. This lesson inspired her to create an inclusive and culturally aware coaching practice to support other pioneers in their professional journeys.
+I also noticed something else. Board gaming is still a male-dominated hobby, and I often saw women being discouraged from trying more complex games. Some female players shared their experiences of having been told certain games were "too difficult" for beginners or that they should stick to lighter games instead. I wanted to create a different environment: one where everyone is encouraged to learn, ask questions, make mistakes, and discover more and more games.
 
-Additionally, as a Spanish Literature Ph.D., Dr. Mora-Hernández is also a specialist in Early Modern Spanish narrative as well as in teaching Spanish as a foreign language. During the last years, her academic research has focused on studying the connections between violence, gender, identity, marginalization, and disability in the context of Early Modern Spanish literature. She examines the causes and effects of violence among characters from canonical texts, such as the ones represented in the works of authors such as Quevedo, Cervantes y Zayas.
+So I started Gaming Crew Vienna.
 
-### Some of her skills are:
+Today, we are an international community that organizes through Discord and welcomes players from all over the world. Our members come from countries including Austria, Chile, South Africa, India, Hungary, Italy, Guatemala, Romania, and many more. We play our games in English and prioritize English-language or language-independent editions so that everyone can participate.
 
-- Building trust
-- Creating awareness
-- Finding and nurturing other people's strengths
-- Motivating groups and individuals to complete projects
-- Articulating overall goals & creating mini-goals for others
-- Giving positive feedback
-- Active listening
-- Verbal & Written communication
-- International and multicultural awareness
-- Bilingual Spanish & English
+If you are looking for an English-speaking community where to learn and play some games to challenge you, this is the place. 
 
+## What Makes Us Different?
+
+Our philosophy is simple:
+
+- Everyone can learn a game.
+- Teaching is part of the hobby.
+- Respect comes before winning.
+- Friendship is more important than competition.
+
+We especially encourage women to join our community, and **we actively work to maintain an environment where women feel comfortable** exploring a hobby that has historically been male-dominated. At the same time, **everyone who shares our values is welcome**. Experienced players are just as important as beginners. We enjoy teaching and learning together, and we all contribute to the welcoming atmosphere we strive to create.
+
+If you're completely new to modern board games, that's perfectly okay. Many of our members started exactly that way.
+
+## The games we play
+
+We love medium and medium-heavy board games, with the occasional lighter game as a filler between longer sessions. Every meetup has a theme, and members bring games that fit that theme or its mechanics.
+
+You **don't need to own any games to join us**. If you bring one, we simply ask that you're willing and well prepared to teach it to the people joining your table.
+
+## More than board games
+
+While board games bring us together, they are only part of what we've built.
+
+Many of our members have become good friends outside of game days. Occasionally, we organize movie nights, craftsy times, cheesecake afternoons, convention visits, and other social events throughout the year. Our Discord server has a place for everyone to chat about books, music, pets, films, travel, and more.
+
+If you don't feel like playing during a meetup, you're still welcome to come by, have a drink, and spend time with the group.
