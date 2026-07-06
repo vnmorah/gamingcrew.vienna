@@ -3,8 +3,6 @@ title: Gaming Crew Vienna
 description: 'Board Games ♥ People ♥ Connections'
 
 layout: featurerow
-
-permalink: /home/
 feature_row:
   - title: 'Who We Are'
     linktext: 'About'
