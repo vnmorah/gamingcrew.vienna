@@ -6,7 +6,7 @@ layout: featurerow
 feature_row:
   - title: 'Who We Are'
     linktext: 'About!'
-    excerpt: '🧩 Learn New Games.🤝 Build Friendships. International Community. 💜 Women Encouraged.' 
+    excerpt: 'Learn New Games. Build Friendships. International Community. Women Encouraged.' 
     linkurl: /eng_about/
     image_path: '/assets/images/bookflower_feature.jpg'
   - title: 'Games'
