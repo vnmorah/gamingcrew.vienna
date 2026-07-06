@@ -24,7 +24,7 @@ feature_row:
   - title: 'News'
     linktext: 'Read'
     excerpt: 'Curious about our recent game days? Check out our news' 
-    linkurl: /both_blog/
+    linkurl: /blog/
     image_path: '/assets/images/blog.jpg'
 
 ---
