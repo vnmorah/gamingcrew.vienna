@@ -6,7 +6,10 @@ layout: featurerow
 feature_row:
   - title: 'Who We Are'
     linktext: 'About!'
-    excerpt: 'If you are looking for an English-speaking community where to learn and play some games to challenge you, this is the place.' 
+    excerpt: '🧩 Learn New Games. We teach games at the table. No homework required (unless you are teaching the game).
+              🤝 Build Friendships. Many of our members meet outside game nights too.
+              🌍 International Community. English-speaking and welcoming people from around the world.
+              💜 Women Encouraged. We're building a space where more women feel comfortable exploring modern board games.If you are looking for an English-speaking community where to learn and play some games to challenge you, this is the place.' 
     linkurl: /eng_about/
     image_path: '/assets/images/bookflower_feature.jpg'
   - title: 'Games'
