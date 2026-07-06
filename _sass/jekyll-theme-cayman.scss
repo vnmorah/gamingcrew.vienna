@@ -220,7 +220,7 @@ a {
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
-  background-image: linear-gradient(to right bottom, $header-bg-color-secondary, $header-bg-color);
+  background-image: solid ( $header-bg-color-secondary, $header-bg-color);
   @include large {
     padding: 1rem 6rem;
   }
