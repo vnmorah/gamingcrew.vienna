@@ -1,7 +1,25 @@
 ---
-title: About the Gaming Crew Vienna
-description: 'Board Games • People • Connections'
+title: Gaming Crew Vienna
+description: 'Board Games ♥ People ♥ Connections'
 
+---
+🧩 Learn New Games
+
+We teach games at the table. No homework required (unless you are teaching the game).
+
+🤝 Build Friendships
+
+Many of our members meet outside game nights too.
+
+🌍 International Community
+
+English-speaking and welcoming people from around the world.
+
+💜 Women Encouraged
+
+We're building a space where more women feel comfortable exploring modern board games.
+
+---
 layout: featurerow
 feature_row:
   - title: 'Who We Are'
