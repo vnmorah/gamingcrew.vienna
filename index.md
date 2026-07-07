@@ -16,7 +16,7 @@ feature_row:
     image_path: '/assets/images/bookflower_feature.jpg'
   - title: 'Games'
     linktext: 'Take a look'
-    excerpt: "Every meetup has a theme. We love medium to heavy board games." 
+    excerpt: 'Every meetup has a theme. We love medium to heavy board games.'
     linkurl: /games/
     image_path: '/assets/images/services/guidance.jpg'
   - title: 'News'
