@@ -3,8 +3,6 @@ title: Gaming Crew Vienna
 description: 'Board Games ♥ People ♥ Connections'
 
 layout: featurerow
-
-permalink: /home/
 feature_row:
   - title: 'Who We Are'
     linktext: 'About'
@@ -21,8 +19,6 @@ feature_row:
     excerpt: "Every meetup has a theme. We love medium to heavy board games." 
     linkurl: /games/
     image_path: '/assets/images/services/guidance.jpg'
-    linkurl: /eng_teaching/
-    image_path: '/assets/images/bookplant_feature.jpg'
   - title: 'News'
     linktext: 'Read'
     excerpt: 'Curious about our recent game days? Check out our news' 
